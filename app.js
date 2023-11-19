@@ -1,7 +1,13 @@
 import express from "express";
+import "dotenv/config";
+import session from "express-session";
 import Lab5 from "./lab5.js";
+import CourseRoutes from "./courses/routes.js";
+import ModuleRoutes from "./modules/routes.js";
 import cors from "cors";
 const app = express();
 app.use(cors());
+ModuleRoutes(app);
+CourseRoutes(app);
 Lab5(app);
-app.listen(4000);
+app.listen(process.env.PORT || 4000);
