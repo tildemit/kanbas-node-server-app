@@ -1,54 +1,63 @@
 [
     {
-      "_id": "65510e70870c092d5441bc94",
+      "_id": "6557fcefa11aca2377083754",
+      "_mid": "sfadd449875dddd243bhfdddsd",
       "name": "Introduction to Rocket Propulsion",
       "description": "Basic principles of rocket propulsion and rocket engines.",
       "course": "RS101"
     },
     {
-      "_id": "6557fcefa11aca2377083755",
+      "_id": "6557fcefa11aca2377083754",
+      "_mid": "dfg929843bhjfdgddgbjh",
       "name": "Fuel and Combustion",
       "description": "Understanding rocket fuel, combustion processes, and efficiency.",
       "course": "RS101"
     },
     {
-      "_id": "6557fcefa11aca2377083756",
+      "_id": "6557fcefa11aca2377083754",
+      "_mid": "4732gbyfuwbh8754g5try",
       "name": "Nozzle Design",
       "description": "Principles of rocket nozzle design and performance optimization.",
       "course": "RS101"
     },
     {
-      "_id": "6557fcefa11aca2377083757",
+      "_id": "65510e70870c092d5441bc95",
+      "_mid": "eheu74zelsabubhfuwffw",
       "name": "Fundamentals of Aerodynamics",
       "description": "Basic aerodynamic concepts and fluid dynamics principles.",
       "course": "RS102"
     },
     {
-      "_id": "6557fcefa11aca2377083758",
+      "_id": "65510e70870c092d5441bc95",
+      "_mid": "mariomakerbjhegbuhbrfjhbdsu",
       "name": "Subsonic and Supersonic Flow",
       "description": "Understanding subsonic and supersonic aerodynamic behaviors.",
       "course": "RS102"
     },
     {
-      "_id": "6557fcefa11aca2377083759",
+      "_id": "65510e70870c092d5441bc95",
+      "_mid": "493747y597gbyvdf85gure",
       "name": "Aerodynamic Heating",
       "description": "Study of aerodynamic heating and thermal protection systems.",
       "course": "RS102"
     },
     {
-      "_id": "6557fcefa11aca237708375a",
+      "_id": "65510e70870c092d5441bc96",
+      "_mid": "sdy8347gbvyuvyvby4ubdyu",
       "name": "Spacecraft Structural Design",
       "description": "Fundamentals of designing spacecraft structures and materials selection.",
       "course": "RS103"
     },
     {
-      "_id": "6557fcefa11aca237708375b",
+      "_id": "65510e70870c092d5441bc96",
+      "_mid": "fbs78487g84fybefyy8fyd",
       "name": "Orbital Mechanics",
       "description": "Understanding orbital dynamics and mission planning.",
       "course": "RS103"
     },
     {
-      "_id": "6557fcefa11aca237708375c",
+      "_id": "65510e70870c092d5441bc96",
+      "_mid": "dbhdsfu74eguybufy3bfeubufe",
       "name": "Spacecraft Systems Engineering",
       "description": "Overview of spacecraft systems and subsystems engineering.",
       "course": "RS103"
