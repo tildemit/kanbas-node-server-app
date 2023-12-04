@@ -13,7 +13,7 @@ const app = express();
 app.use(
     cors({
       credentials: true,
-      origin: '*',
+      origin: 'https://a6--coruscating-mooncake-47ba56.netlify.app',
     })
    );
    const sessionOptions = {
